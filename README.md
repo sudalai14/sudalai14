@@ -31,6 +31,10 @@
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudalai14&layout=compact&theme=dark)
 
+## Status
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlzazNxY2VwaWxhbDRqbGZyaGlpOWs1YThlZXpoemZmMGFrYmJvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="350">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudalai14&theme=dark" alt="sudalai14" /></p>
+
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/sudalai muthu s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudalai muthu s" height="30" width="40" /></a>
