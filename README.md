@@ -24,6 +24,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Node](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=Express)
+
+![Mongo](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb)
+![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
@@ -32,7 +38,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudalai14&layout=compact&theme=dark)
 
 ## Status
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlzazNxY2VwaWxhbDRqbGZyaGlpOWs1YThlZXpoemZmMGFrYmJvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="350">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudalai14&theme=dark" alt="sudalai14" /></p>
 
 ## Connect with me
