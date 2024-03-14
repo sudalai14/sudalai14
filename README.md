@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Anything related to C,java and Web development**
 
-- 📫 How to reach me **mailtomuthu2002@gmail.com**
+- 📫 How to reach me: [Email](mailto:mailtomuthu2002@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C-HUOx6rnBny2u4dqxB83H_9k65KSzlv/view?usp=drive_link](https://drive.google.com/file/d/1C-HUOx6rnBny2u4dqxB83H_9k65KSzlv/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1C-HUOx6rnBny2u4dqxB83H_9k65KSzlv/view?usp=drive_link)
 
 ## Languages and Tools
 
