@@ -36,8 +36,7 @@
 <a href="https://www.leetcode.com/sudalaimuthusundaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudalaimuthusundaram" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudalai14&show_icons=true&locale=en&layout=compact" alt="sudalai14" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudalai14&layout=compact&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudalai14&show_icons=true&locale=en" alt="sudalai14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudalai14&" alt="sudalai14" /></p>
+
