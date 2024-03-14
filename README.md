@@ -6,7 +6,7 @@
 
 - 🔭 I am presently engaged in academic pursuits as a student, **actively involved in the development of web applications as part of my ongoing projects.**
 
-- 🌱 I’m currently learning **API integration, Angular js**
+- 🌱 I’m currently learning **API integration, Angularjs**
 
 - 💬 Ask me about **Anything related to C,java and Web development**
 
@@ -28,6 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudalai14&layout=compact&theme=dark)
 
 ## Connect with me
 <p align="left">
@@ -36,7 +38,6 @@
 <a href="https://www.leetcode.com/sudalaimuthusundaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudalaimuthusundaram" height="30" width="40" /></a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudalai14&layout=compact&theme=dark)
 
 
 
