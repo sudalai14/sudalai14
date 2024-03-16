@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudalai Muthu S</h1>
-<h3 align="center">Passionate developer with a knack for coding and problem-solving. Thrives on challenging projects for continuous learning and growth.</h3>
+<h3 align="center">Passionate web developer eager to work collaboratively in a team environment, contribute effectively, and grow through challenging projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudalai14&label=Profile%20views&color=0e75b6&style=flat" alt="sudalai14" /> </p>
 
