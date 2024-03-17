@@ -6,7 +6,7 @@
 
 - 🔭 I am presently engaged in academic pursuits as a student, **actively involved in the development of web applications as part of my ongoing projects.**
 
-- 🌱 I’m currently learning **API integration, Angularjs**
+- 🌱 I’m currently learning **API integration, spring boot**
 
 - 💬 Ask me about **Anything related to C,java and Web development**
 
